@@ -1,12 +1,13 @@
 # pyaction-lite
 A base Docker image for Github Actions implemented in Python
 
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/cicirello/pyaction-lite?label=Docker%20Hub&logo=docker)](https://hub.docker.com/r/cicirello/pyaction-lite)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/cicirello/pyaction-lite?logo=docker)](https://hub.docker.com/r/cicirello/pyaction-lite)
-[![Docker Pulls](https://img.shields.io/docker/pulls/cicirello/pyaction-lite?logo=docker)](https://hub.docker.com/r/cicirello/pyaction-lite)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cicirello/pyaction-lite?logo=github)](https://github.com/cicirello/pyaction-lite/releases)
-[![build](https://github.com/cicirello/pyaction-lite/workflows/build/badge.svg)](https://github.com/cicirello/pyaction-lite/actions?query=workflow%3Abuild)
-[![GitHub](https://img.shields.io/github/license/cicirello/pyaction-lite)](https://github.com/cicirello/pyaction-lite/blob/master/LICENSE)
+| __Docker Hub__ | [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/cicirello/pyaction-lite?label=Docker%20Hub&logo=docker)](https://hub.docker.com/r/cicirello/pyaction-lite) [![Docker Pulls](https://img.shields.io/docker/pulls/cicirello/pyaction-lite?logo=docker)](https://hub.docker.com/r/cicirello/pyaction-lite) |
+| :--- | :--- |
+| __GitHub__ | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/cicirello/pyaction-lite?logo=github)](https://github.com/cicirello/pyaction-lite/releases) |
+| __Image Stats__ | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/cicirello/pyaction-lite?logo=docker)](https://hub.docker.com/r/cicirello/pyaction-lite) |
+| __Build Status__ | [![build](https://github.com/cicirello/pyaction-lite/workflows/build/badge.svg)](https://github.com/cicirello/pyaction-lite/actions/workflows/docker-image.yml) |
+| __License__ | [![GitHub](https://img.shields.io/github/license/cicirello/pyaction-lite)](https://github.com/cicirello/pyaction-lite/blob/master/LICENSE) |
+| __Support__ | [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/cicirello) [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](https://liberapay.com/cicirello) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/cicirello) |
 
 ## Summary
 
