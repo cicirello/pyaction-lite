@@ -1,8 +1,8 @@
-# Copyright (c) 2020-2022 Vincent A. Cicirello
+# Copyright (c) 2020-2023 Vincent A. Cicirello
 # https://www.cicirello.org
 # Source repository: https://github.com/cicirello/pyaction-lite
 # Source licensed under the MIT License: https://github.com/cicirello/pyaction-lite/blob/master/LICENSE
-FROM alpine:3.17.0
+FROM alpine:3.17.1
 LABEL maintainer="development@cicirello.org" \
     org.opencontainers.image.description="A base Docker image for Github Actions implemented in Python" \
     org.opencontainers.image.authors="Vincent A Cicirello, development@cicirello.org, https://www.cicirello.org/" \
